@@ -35,6 +35,8 @@ npm start
 
 4. Open the app in your browser at http://localhost:3000
 
+🎥 Demo Video Link : https://drive.google.com/file/d/1ZdnZ-H5mC6F79daIULROj225C5DeKXjp/view?usp=drive_link
+
 🎯 Purpose
 
 This project my Naan Mudhalvan frontend Development Project. The goal of this project is to showcase traditional South Indian recipes in a modern web format using React.
